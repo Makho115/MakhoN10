@@ -1,0 +1,124 @@
+.header-img{
+    background: url(../img/Rectangle\ 1.svg) no-repeat;
+    max-width:1440px;
+    width: 100%;
+    height: 754px;
+    background-size: cover;
+    margin: 0 auto;
+    padding-top: 40px;
+
+}
+.header-box{
+    max-width: 1104px;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 0 auto ;
+    background-color: brown;
+
+}
+.ul-items{
+    display: flex;
+    width: 366px;
+    height: 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-box2{
+    max-width: 665px;
+    width: 100%;
+    /* height: 283px; */
+    display: flex;
+    flex-direction: column;
+    gap: 102px;
+    margin: 200px 0 0 122px;
+
+}
+.li-boxes{
+    width: 40px;
+}
+.Ipsum-box{
+    max-width: 1153px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 120px auto 0;
+}
+.title-box{
+    text-align: center;
+    max-width: 994px;
+    width: 100%;
+
+
+}
+.Lorem-box{
+    display: flex;
+    max-width: 1153px;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 99px;
+    
+    
+}
+.img-box{
+    width: 298px;
+    height: 212px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+.main-block{
+    display: flex;
+    max-width: 1197px;
+    width: 100%;
+    flex-direction: column;
+    margin: 174px auto 0;
+    gap: 120px;
+    background-color: blueviolet;
+}
+.main-block-boxes{
+    display: flex;
+    max-width: 1197px;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.main-img{
+    max-width: 504px;
+    width: 100%;
+
+}
+.text-box{
+    display: flex;
+    flex-direction: column;
+    width: 608px;
+    background-color: yellow;
+}
+.footer-bg{
+    background-color: #F8464A;
+    max-width: 1440px;
+    height: 536px;
+    width: 100%;
+    margin: 87px auto 0;
+    display: flex;
+    flex-direction: column;
+}
+.footer-block{
+    display: flex;
+    justify-content: space-between;
+    max-width:1034px ;
+    height: 304px;
+    width: 100%;
+    margin: 80px 0 0 104px;
+}
+.copy-text{
+    width: 400px;
+    margin: 50px 0 70px 104px;
+}
